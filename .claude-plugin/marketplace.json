@@ -1,0 +1,21 @@
+{
+  "name": "phyr97",
+  "owner": {
+    "name": "phyr97"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace by phyr97"
+  },
+  "plugins": [
+    {
+      "name": "plugin-insights",
+      "source": {
+        "source": "github",
+        "repo": "phyr97/plugin-insights"
+      },
+      "description": "Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts and generating HTML reports",
+      "version": "0.1.0",
+      "keywords": ["analytics", "plugins", "insights", "agents"]
+    }
+  ]
+}
