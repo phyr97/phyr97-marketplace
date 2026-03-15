@@ -11,6 +11,10 @@ Personal Claude Code plugin marketplace.
 
 ## Install
 
+Add the marketplace, then install plugins:
+
 ```
 /plugin marketplace add phyr97/phyr97-marketplace
+/plugin install deep-research@phyr97
+/plugin install plugin-insights@phyr97
 ```
