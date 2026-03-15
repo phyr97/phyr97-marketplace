@@ -11,6 +11,6 @@ Personal Claude Code plugin marketplace.
 
 ## Install
 
-```bash
-claude marketplace add phyr97/phyr97-marketplace
+```
+/plugin marketplace add phyr97/phyr97-marketplace
 ```
