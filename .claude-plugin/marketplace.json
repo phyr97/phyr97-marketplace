@@ -8,6 +8,16 @@
   },
   "plugins": [
     {
+      "name": "deep-research",
+      "source": {
+        "source": "github",
+        "repo": "phyr97/deep-research"
+      },
+      "description": "Deep research across web, codebase, and knowledge domains with auto-scaling, self-check, and metrics tracking",
+      "version": "0.4.0",
+      "keywords": ["research", "agents", "web", "codebase"]
+    },
+    {
       "name": "plugin-insights",
       "source": {
         "source": "github",
