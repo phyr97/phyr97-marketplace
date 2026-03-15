@@ -24,7 +24,7 @@
         "repo": "phyr97/plugin-insights"
       },
       "description": "Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts and generating HTML reports",
-      "version": "0.2.1",
+      "version": "0.3.0",
       "keywords": ["analytics", "plugins", "insights", "agents"]
     }
   ]
