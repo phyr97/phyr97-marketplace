@@ -7,7 +7,7 @@ Personal Claude Code plugin marketplace.
 | Plugin | Version | Description |
 |---|---|---|
 | [deep-research](https://github.com/phyr97/deep-research) | v0.4.0 | Deep research across web, codebase, and knowledge domains with auto-scaling |
-| [plugin-insights](https://github.com/phyr97/plugin-insights) | v0.3.2 | Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts |
+| [plugin-insights](https://github.com/phyr97/plugin-insights) | v0.3.3 | Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts |
 
 ## Install
 
