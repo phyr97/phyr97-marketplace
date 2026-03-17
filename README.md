@@ -9,6 +9,7 @@ Personal Claude Code plugin marketplace.
 | [deep-research](https://github.com/phyr97/deep-research) | v1.1.0 | Deep research across web, codebase, and knowledge domains with auto-scaling |
 | [plugin-insights](https://github.com/phyr97/plugin-insights) | v0.3.3 | Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts |
 | [review](https://github.com/phyr97/review) | v0.2.0 | Multi-mode code review with agent-based analysis and confidence scoring |
+| [work-on](https://github.com/phyr97/work-on) | v0.1.0 | Issue-to-branch workflow: brainstorm, plan, implement in isolated worktrees |
 
 ## Install
 
@@ -19,4 +20,5 @@ Add the marketplace, then install plugins:
 /plugin install deep-research@phyr97
 /plugin install plugin-insights@phyr97
 /plugin install review@phyr97
+/plugin install work-on@phyr97
 ```

@@ -36,6 +36,16 @@
       "description": "Multi-mode code review with agent-based analysis, false-positive filtering, and confidence scoring",
       "version": "0.2.0",
       "keywords": ["code-review", "diff", "quality", "agents"]
+    },
+    {
+      "name": "work-on",
+      "source": {
+        "source": "github",
+        "repo": "phyr97/work-on"
+      },
+      "description": "Issue-to-branch workflow: brainstorm, plan, implement in isolated worktrees",
+      "version": "0.1.0",
+      "keywords": ["workflow", "issues", "worktrees", "planning"]
     }
   ]
 }
