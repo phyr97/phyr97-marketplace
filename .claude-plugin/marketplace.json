@@ -44,7 +44,7 @@
         "repo": "phyr97/work-on"
       },
       "description": "Issue-to-branch workflow: brainstorm, plan, implement in isolated worktrees",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "keywords": ["workflow", "issues", "worktrees", "planning"]
     }
   ]
