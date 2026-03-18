@@ -14,7 +14,7 @@
         "repo": "phyr97/deep-research"
       },
       "description": "Deep research across web, codebase, and knowledge domains with auto-scaling, self-check, and metrics tracking",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "keywords": ["research", "agents", "web", "codebase"]
     },
     {
@@ -24,7 +24,7 @@
         "repo": "phyr97/plugin-insights"
       },
       "description": "Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts and generating HTML reports",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "keywords": ["analytics", "plugins", "insights", "agents"]
     },
     {
@@ -34,7 +34,7 @@
         "repo": "phyr97/review"
       },
       "description": "Multi-mode code review with agent-based analysis, false-positive filtering, and confidence scoring",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "keywords": ["code-review", "diff", "quality", "agents"]
     },
     {
@@ -44,7 +44,7 @@
         "repo": "phyr97/work-on"
       },
       "description": "Issue-to-branch workflow: brainstorm, plan, implement in isolated worktrees",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "keywords": ["workflow", "issues", "worktrees", "planning"]
     }
   ]
