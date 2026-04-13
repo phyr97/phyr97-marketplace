@@ -46,6 +46,16 @@
       "description": "Issue-to-branch workflow: brainstorm, plan, implement in isolated worktrees",
       "version": "0.2.1",
       "keywords": ["workflow", "issues", "worktrees", "planning"]
+    },
+    {
+      "name": "expert-panel",
+      "source": {
+        "source": "github",
+        "repo": "phyr97/expert-panel"
+      },
+      "description": "Structured ideation panels with dynamic personas, critic, and synthesizer. Run /ideate on any open decision question.",
+      "version": "0.1.0",
+      "keywords": ["ideation", "brainstorming", "multi-agent", "decision-support", "expert-panel"]
     }
   ]
 }
