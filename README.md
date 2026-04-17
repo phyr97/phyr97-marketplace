@@ -10,7 +10,7 @@ Personal Claude Code plugin marketplace.
 | [plugin-insights](https://github.com/phyr97/plugin-insights) | v0.3.4 | Analyzes how well Claude Code plugins perform by evaluating JSONL session transcripts |
 | [review](https://github.com/phyr97/review) | v0.2.1 | Multi-mode code review with agent-based analysis and confidence scoring |
 | [work-on](https://github.com/phyr97/work-on) | v0.2.1 | Issue-to-branch workflow: brainstorm, plan, implement in isolated worktrees |
-| [expert-panel](https://github.com/phyr97/expert-panel) | v0.1.0 | Structured ideation panels with dynamic personas, critic, and synthesizer |
+| [expert-panel](https://github.com/phyr97/expert-panel) | v0.1.1 | Structured ideation panels with dynamic personas, critic, and synthesizer |
 
 ## Install
 

@@ -54,7 +54,7 @@
         "repo": "phyr97/expert-panel"
       },
       "description": "Structured ideation panels with dynamic personas, critic, and synthesizer. Run /ideate on any open decision question.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "keywords": ["ideation", "brainstorming", "multi-agent", "decision-support", "expert-panel"]
     }
   ]
