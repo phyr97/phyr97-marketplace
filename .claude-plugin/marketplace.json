@@ -14,7 +14,7 @@
         "repo": "phyr97/deep-research"
       },
       "description": "Deep research across web, codebase, and knowledge domains with auto-scaling, self-check, and metrics tracking",
-      "version": "2.0.1",
+      "version": "2.1.0",
       "keywords": ["research", "agents", "web", "codebase"]
     },
     {
