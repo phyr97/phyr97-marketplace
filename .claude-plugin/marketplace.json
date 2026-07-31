@@ -59,7 +59,7 @@
         "repo": "phyr97/work-on"
       },
       "description": "Issue-to-branch workflow: brainstorm, plan, implement in parallel native worktrees with guaranteed-free ports",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "keywords": [
         "workflow",
         "issues",
