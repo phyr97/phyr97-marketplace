@@ -14,7 +14,7 @@
         "repo": "phyr97/deep-research"
       },
       "description": "Deep research across web, codebase, and knowledge domains with auto-scaling, capped adversarial verification, self-check, optional exa/Firecrawl retrieval, and metrics tracking",
-      "version": "3.2.0",
+      "version": "3.2.1",
       "keywords": [
         "research",
         "agents",
